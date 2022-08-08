@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UMC_3rd</string>
+
+    <string name="main_home">홈</string>
+    <string name="main_home_tab_all">전체</string>
+    <string name="main_home_tab_movie">영화</string>
+    <string name="main_home_tab_tv">TV 프로그램</string>
+    <string name="main_new_ep">새로운 에피소드</string>
+    <string name="main_more">더보기</string>
+    <string name="main_top_10">왓고리즘</string>
+    <string name="main_recommend">UMC님을 위한 추천 장르</string>
+</resources>
